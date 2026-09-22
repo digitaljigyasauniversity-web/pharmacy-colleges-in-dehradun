@@ -1,0 +1,20 @@
+echo "# Pharmacy Colleges in Dehradun" > README.md
+echo "" >> README.md
+echo "Learn more about [Best Pharmacy Colleges in Dehradun](https://www.jigyasauniversity.edu.in/blog/best-pharmacy-colleges-in-dehradun)." >> README.md
+
+git init
+git add README.md
+git commit -m "Add pharmacy colleges in Dehradun backlink"
+git branch -M main
+git remote add origin https://github.com/digitaljigyasauniversity-web/pharmacy-colleges-in-dehradun.git
+git push -u origin main
+
+# Pharmacy Colleges in Dehradun
+
+Learn more about [Best Pharmacy Colleges in Dehradun](https://www.jigyasauniversity.edu.in/blog/best-pharmacy-colleges-in-dehradun).
+echo "" >> README.md
+echo "Learn more about [Best Pharmacy Colleges in Dehradun](https://www.jigyasauniversity.edu.in/blog/best-pharmacy-colleges-in-dehradun)." >> README.md
+
+git add README.md
+git commit -m "Add Jigyasa University pharmacy colleges backlink"
+git push
